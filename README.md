@@ -1,6 +1,6 @@
 ### Hello stalker 👋
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimBdCqGltoQAhaCSidum-bScgvumkyheTFg&usqp=CAU"/>
+  <img src='https://media0.giphy.com/media/g3UsWHvZCR8eU43wL3/giphy.gif?cid=ecf05e47r9n73isaom4vn7mm5thlae4v49git1bg2mysbvt7&rid=giphy.gif&ct=g'/>
 </p>
 
 ```yaml
@@ -54,5 +54,5 @@ hobbies: 'https://www.chess.com/member/romerocam',
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="45" height="45"/>
                     
-</p
-(https://github.com/romerocam/romerocam/blob/output/github-contribution-grid-snake.svg)
+</p>
+

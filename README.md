@@ -1,4 +1,4 @@
-### Hello stalker 👋
+<h1 align="center">Hello stalker 👋</h1>
 <p align="center">
   <img src='https://media0.giphy.com/media/g3UsWHvZCR8eU43wL3/giphy.gif?cid=ecf05e47r9n73isaom4vn7mm5thlae4v49git1bg2mysbvt7&rid=giphy.gif&ct=g'/>
 </p>
@@ -25,17 +25,21 @@ professional_experience: [
 contact_me: 'juancamiloromero@gmail.com',
 hobbies: 'https://www.chess.com/member/romerocam',
 ```
-###### Open for challenges!
-<p align="center"></p>
+<h3 align="center">Open for challenges!</h3>
+<p align="center">
 <a href="https://www.chess.com/member/romerocam">
   <img height="50" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png"/>
 </a>
 
+<a href="https://www.linkedin.com/in/romerocam">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+</p>
 
 
 
 
-<h2> 🚀 &nbsp;Technologies Stack 🚀 &nbsp;</h2>
+<h2 align="center"> 🚀 &nbsp;Technologies Stack 🚀 &nbsp;</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="55" height="55"/> 

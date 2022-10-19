@@ -35,7 +35,7 @@ hobbies: 'https://www.chess.com/member/romerocam',
 
 
 
-<h2> 🚀 &nbsp;Technologies Stack</h2>
+<h2> 🚀 &nbsp;Technologies Stack 🚀 &nbsp;</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="55" height="55"/> 

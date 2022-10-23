@@ -67,6 +67,5 @@ hobbies: 'https://www.chess.com/member/romerocam',
                    
 </p> 
 <p>
-![snake gif]
-(https://github.com/romerocam/romerocam/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/romerocam/romerocam/blob/output/github-contribution-grid-snake.gif"/>
 </p>

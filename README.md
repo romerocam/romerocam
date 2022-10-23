@@ -66,6 +66,6 @@ hobbies: 'https://www.chess.com/member/romerocam',
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  alt="firebase" width="55" height="55" />
                    
 </p> 
-<p>
-<img src="https://github.com/romerocam/romerocam/blob/output/github-contribution-grid-snake.gif"/>
+<p align="center">
+<img src="https://github.com/romerocam/romerocam/blob/output/github-contribution-grid-snake.svg"/>
 </p>

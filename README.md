@@ -62,9 +62,9 @@ hobbies: 'https://www.chess.com/member/romerocam',
 <h3 align="center"> Learning in process... </h3>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="55" height="55"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="55" height="55"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  alt="firebase" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="55" height="55"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="55" height="55"/> -->
             
                    
 </p> 

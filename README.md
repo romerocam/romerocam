@@ -5,7 +5,7 @@
 
 ```yaml
 name: Juan Camilo Romero,
-job: Fullstack Developer,
+job: Web Developer, HAL Company,
 location : Buenos Aires, Argentina,
 education: [
   'Fullstack Developer, Plataforma 5 Coding Bootcamp, Buenos Aires, Argentina',
@@ -15,10 +15,11 @@ education: [
 linkedin: 'https://www.linkedin.com/in/romerocam/',
 languages: [
       {spanish: 'native'},
-      {english: 'advanced'},
+      {english: 'advanced, C2 Proficient'},
       {russian: 'learning'}
   ]
 professional_experience: [
+'HAL Company, Hubspot CMS Web Developer',
 'Software Developer, Cruce, Software Development',
 'Chef Owner at Simplato Restaurant & Catering, Entrepreneurship',
   ],

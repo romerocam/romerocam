@@ -6,7 +6,7 @@
 ```yaml
 name: Juan Camilo Romero,
 job: Web Developer, HAL Company, 
-url: "https://www.hal.company"
+url: "https://portfolio-romerocam.vercel.app"
 location : Buenos Aires, Argentina,
 education: [
   'Fullstack Developer, Plataforma 5 Coding Bootcamp, Buenos Aires, Argentina',

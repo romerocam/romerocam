@@ -64,7 +64,14 @@ hobbies: 'https://www.chess.com/member/romerocam',
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="hubspot" width="55" height="55">                   
+<img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="hubspot" width="55" height="55">   
+  <!-- Begin: HubSpot Academy - HubSpot CMS for Developers Badge -->
+<div class='academy-badge'>
+<a href='https://app.hubspot.com/academy/achievements/4pq1t3h7/en/1/juan-camilo-romero/hubspot-cms-for-developers' title='HubSpot CMS for Developers'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/3ba55ad556ee42429c3d1b46eefa3575.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - HubSpot CMS for Developers Badge -->
   
 </p>
 <h3 align="center"> Learning in process... </h3>

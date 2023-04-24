@@ -27,6 +27,13 @@ professional_experience: [
 contact_me: 'juancamiloromero@gmail.com',
 hobbies: 'https://www.chess.com/member/romerocam',
 ```
+  <!-- Begin: HubSpot Academy - HubSpot CMS for Developers Badge -->
+<div class='academy-badge'align="center">
+<a href='https://app.hubspot.com/academy/achievements/4pq1t3h7/en/1/juan-camilo-romero/hubspot-cms-for-developers' title='HubSpot CMS for Developers'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/3ba55ad556ee42429c3d1b46eefa3575.png'width="400" height="auto"/>
+</a>
+</div>
+<!-- End: HubSpot Academy - HubSpot CMS for Developers Badge -->
 <h3 align="center">Open for challenges!</h3>
 <p align="center">
 <a href="https://www.chess.com/member/romerocam">
@@ -74,15 +81,6 @@ hobbies: 'https://www.chess.com/member/romerocam',
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="55" height="55"/> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="55" height="55" /> -->
 </p> 
-
-  <!-- Begin: HubSpot Academy - HubSpot CMS for Developers Badge -->
-<div class='academy-badge'align="center">
-<a href='https://app.hubspot.com/academy/achievements/4pq1t3h7/en/1/juan-camilo-romero/hubspot-cms-for-developers' title='HubSpot CMS for Developers'>
-<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/3ba55ad556ee42429c3d1b46eefa3575.png'width="400" height="auto"/>
-</a>
-</div>
-<!-- End: HubSpot Academy - HubSpot CMS for Developers Badge -->
-
 
 <p align="center">
 <img src="https://github.com/romerocam/romerocam/blob/output/github-contribution-grid-snake.svg"/>

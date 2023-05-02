@@ -20,7 +20,7 @@ languages: [
       {russian: 'learning'}
   ]
 professional_experience: [
-'HAL Company, Hubspot CMS Web Developer',HAL Company, 
+'HAL Company, Hubspot CMS Developer',HAL Company, 
 'Software Developer, Cruce, Software Development',
 'Chef Owner at Simplato Restaurant & Catering, Entrepreneurship',
   ],

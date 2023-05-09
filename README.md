@@ -32,6 +32,9 @@ hobbies: 'https://www.chess.com/member/romerocam',
 <a href='https://app.hubspot.com/academy/achievements/4pq1t3h7/en/1/juan-camilo-romero/hubspot-cms-for-developers' title='HubSpot CMS for Developers'>
 <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/3ba55ad556ee42429c3d1b46eefa3575.png'width="250" height="auto"/>
 </a>
+  <a href='https://app.hubspot.com/academy/achievements/nn6shpk0/en/1/juan-camilo-romero/hubspot-cms-for-developers-ii-best-practices' title='HubSpot CMS for Developers II: Best Practices'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/56d78dc5e3e54020aa7e3e154b75ccd6.png'width="250" height="auto" />
+</a>
 </div>
 <!-- End: HubSpot Academy - HubSpot CMS for Developers Badge -->
 <h3 align="center">Open for challenges!</h3>

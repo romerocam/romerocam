@@ -9,6 +9,7 @@ job: Web Developer
 url: "https://portfolio-romerocam.vercel.app"
 location : Buenos Aires, Argentina,
 education: [
+  'HubSpot Certified CMS Developer, HubSpot Academy',
   'Fullstack Developer, Plataforma 5 Coding Bootcamp, Buenos Aires, Argentina',
   'Professional Chef, Instituto Argentino de Gastronomía(IAG), Buenos Aires, Argentina',
   'Advertising, Universidad Jorge Tadeo Lozano(UJTL), Bogotá, Colombia'

@@ -43,6 +43,9 @@ hobbies: 'https://www.chess.com/member/romerocam',
     <a href='https://app.hubspot.com/academy/achievements/q9xxkz5j/en/1/juan-camilo-romero/seo-ii' title='SEO II'>
       <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a77036688cea4edfbe0faed0daca9a15.png'width="200"                 height="auto" />
     </a>
+    <a href='https://app.hubspot.com/academy/achievements/c6670b8p/en/1/juan-camilo-romero/inbound-marketing' title='Inbound Marketing'>
+      <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/9601e12377c742a7b8de14f39ee2f4ed.png'width="200"                 height="auto />
+    </a>
 </div>
 <!-- End: HubSpot Academy - HubSpot CMS for Developers Badge -->
 <h3 align="center">Open for challenges!</h3>

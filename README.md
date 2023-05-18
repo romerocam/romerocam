@@ -12,8 +12,8 @@ education: [
   'HubSpot Certified CMS Developer, HubSpot Academy',
   'HubSpot SEO & Inbound Marketing Certified, HubSpot Academy',
   'Fullstack Developer, Plataforma 5 Coding Bootcamp, Buenos Aires, Argentina',
-  'Professional Chef, Instituto Argentino de Gastronomía(IAG), Buenos Aires, Argentina',
-  'Advertising, Universidad Jorge Tadeo Lozano(UJTL), Bogotá, Colombia'
+  'Advertising, Universidad Jorge Tadeo Lozano(UJTL), Bogotá, Colombia',
+  'Professional Chef, Instituto Argentino de Gastronomía(IAG), Buenos Aires, Argentina'
   ],
 linkedin: 'https://www.linkedin.com/in/romerocam/',
 languages: [

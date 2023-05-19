@@ -57,8 +57,6 @@ hobbies: 'https://www.chess.com/member/romerocam',
 <a href="https://www.linkedin.com/in/romerocam">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-  
-
 </p>
 
 

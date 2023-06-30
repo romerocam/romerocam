@@ -22,7 +22,7 @@ languages: [
       {russian: 'learning'}
   ]
 professional_experience: [
-'Mavity Techstars, Software Engineer',
+'Mavity (Techstars 22'), Fullstack Developer',
 'HAL Company, Hubspot CMS Developer', 
 'Cruce, Software Development,Fullstack Developer',
 'Chef Owner at Simplato Restaurant & Catering, Entrepreneurship',

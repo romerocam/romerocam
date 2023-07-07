@@ -95,7 +95,7 @@ hobbies: 'https://www.chess.com/member/romerocam',
 
   
 </p>
-<h3 align="center"> Learning in process... </h3>
+<h3 align="center"> Learning in progress... </h3>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="55" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55" />

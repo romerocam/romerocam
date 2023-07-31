@@ -101,5 +101,5 @@ hobbies: 'https://www.chess.com/member/romerocam',
 </p> 
 
 <p align="center">
-<!-- <img src="https://github.com/romerocam/romerocam/blob/output/github-contribution-grid-snake.svg"/> -->
+<img src="https://github.com/romerocam/romerocam/blob/output/github-contribution-grid-snake.svg"/>
 </p>

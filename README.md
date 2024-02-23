@@ -81,13 +81,13 @@ hobbies: 'https://www.chess.com/member/romerocam',
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="55" height="55"/>
-<img src="https://seeklogo.com/images/B/bubble-icon-logo-90ECCA2A26-seeklogo.com.png"  alt="bubble" width="55" height="55" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" width="55" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="55" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="hubspot" width="55" height="55">   
+<img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="hubspot" width="55" height="55">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="55" height="55"  />
 <img src="https://seeklogo.com/images/B/bubble-icon-logo-90ECCA2A26-seeklogo.com.png"  alt="bubble" width="55" height="55" />
   
@@ -95,11 +95,11 @@ hobbies: 'https://www.chess.com/member/romerocam',
 <h3 align="center"> Learning in progress... </h3>
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55" />
+
 
           
 </p> 
 
 <p align="center">
-<!-- <img src="https://github.com/romerocam/romerocam/blob/output/github-contribution-grid-snake.svg"/> -->
+
 </p>

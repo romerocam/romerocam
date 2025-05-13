@@ -86,10 +86,7 @@ hobbies: 'https://www.chess.com/member/romerocam',
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="hubspot" width="55" height="55">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="55" height="55"  />
-<img src="https://images.seeklogo.com/logo-png/44/1/bubble-icon-logo-png_seeklogo-448116.png"  alt="bubble" width="55" height="55" />
+<img src="(https://github.com/user-attachments/assets/237143f3-02bd-463b-9000-cba7e6c91a52)" alt="bubble" width="55" height="55"/>
   
 </p>
 <h3 align="center"> Learning in progress... </h3>

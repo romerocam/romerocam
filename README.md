@@ -6,7 +6,6 @@
 ```yaml
 name: Juan Camilo Romero,
 job: Frontend Developer 
-url: "https://portfolio-romerocam.vercel.app"
 location : Buenos Aires, Argentina,
 education: [
   'HubSpot Certified CMS Developer, HubSpot Academy',
@@ -22,7 +21,7 @@ languages: [
       {russian: 'learning'}
   ]
 professional_experience: [
-'Mavity (Techstars 22'), Frontend Developer',
+'Mavity, Frontend Developer',
 'HAL Company, Hubspot CMS Developer', 
 'Cruce, Software Development, Fullstack Developer',
 'Chef Owner at Simplato Restaurant & Catering, Entrepreneurship',

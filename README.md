@@ -5,7 +5,7 @@
 
 ```yaml
 name: Juan Camilo Romero,
-job: Web Developer 
+job: Frontend Developer 
 url: "https://portfolio-romerocam.vercel.app"
 location : Buenos Aires, Argentina,
 education: [

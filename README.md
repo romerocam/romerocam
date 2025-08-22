@@ -10,7 +10,7 @@ location : Buenos Aires, Argentina,
 education: [
   'HubSpot Certified CMS Developer, HubSpot Academy',
   'HubSpot SEO & Inbound Marketing Certified, HubSpot Academy',
-  'Fullstack Developer, Plataforma 5 Coding Bootcamp, Buenos Aires, Argentina',
+  'Fullstack Developer, Plataforma 5, Buenos Aires, Argentina',
   'Advertising, Universidad Jorge Tadeo Lozano(UJTL), Bogotá, Colombia',
   'Professional Chef, Instituto Argentino de Gastronomía(IAG), Buenos Aires, Argentina'
   ],

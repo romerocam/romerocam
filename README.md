@@ -4,7 +4,7 @@
 </p> -->
 
 ```yaml
-name: Juan Camilo Romero,
+name: Juan Romero,
 job: Frontend Developer 
 location : Buenos Aires, Argentina,
 education: [

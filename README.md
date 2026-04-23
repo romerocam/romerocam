@@ -67,7 +67,7 @@ hobbies: 'https://www.chess.com/member/romerocam',
 
 
 
-<h2 align="center"> 🚀 &nbsp;Technologies Stack 🚀 &nbsp;</h2>
+<!-- <h2 align="center"> 🚀 &nbsp;Technologies Stack 🚀 &nbsp;</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="55" height="55"/> 
@@ -84,7 +84,7 @@ hobbies: 'https://www.chess.com/member/romerocam',
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="55" height="55"/>
 <img src="https://github.com/user-attachments/assets/237143f3-02bd-463b-9000-cba7e6c91a52" alt="bubble" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original-wordmark.svg" alt="replit" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original-wordmark.svg" alt="replit" width="55" height="55" /> -->
           
   
 </p>

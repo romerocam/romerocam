@@ -37,9 +37,6 @@ hobbies: 'https://www.chess.com/member/romerocam',
   <a href='https://app.hubspot.com/academy/achievements/q1q5mcws/en/1/juan-camilo-romero/integrating-with-hubspot-i-foundations'          title='Integrating With HubSpot I: Foundations'>
     <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/992b67eaa6844b3cb20b1c4046449571.png'width="250"                 height="auto" />
     </a>
-    <a href='https://app.hubspot.com/academy/achievements/nysslbxz/en/1/juan-camilo-romero/seo' title='SEO'>
-      <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/ee096466e9814a359c57e0ae80067194.png'width="250"                 height="auto" />
-    </a>
     <a href='https://app.hubspot.com/academy/achievements/q9xxkz5j/en/1/juan-camilo-romero/seo-ii' title='SEO II'>
       <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a77036688cea4edfbe0faed0daca9a15.png'width="250"                 height="auto" />
     </a>
